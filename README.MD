@@ -3,7 +3,7 @@
 
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/mockup_fast_cut.jpg"
     width="400"  
 />
 </p>
@@ -11,7 +11,7 @@
 # Projeto EBOOK Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido como um exercício de engenharia de prompt durante o bootcamp 'IA Generativa com Microsoft Copilot' da Caixa na plataforma da [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
@@ -21,8 +21,8 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [MidJourney](https://runwayml.com/)
+- [Google Slides](https://workspace.google.com/products/slides/)
 
 ## 🧠 Prompts
 
@@ -31,20 +31,36 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | sugira títulos de e-book sobre o tema edição de vídeos, com dicas para acelerar o processo. títulos curtos e chamativos |                                                     
+| tópicos | escreva um sumário com 10 capítulos para um e-book sobre o tema: dicas para acelerar o processo de edição de vídeos. O e-book deve conter dez capítulos, incluindo introdução e conclusão |
 
+| conteúdo | Use  os capítulos gerados e escreva o e-book usando as seguintes regras: 
+>cada capítulo deve ter duração de leitura máxima de 2 minutos 
+>a linguagem deve ser dinâmica e de fácil compreensão, focada para pessoas que já tem conhecimento na área 
+>as dicas devem se aplicar para qualquer software de edição
+>use analogias e cite exemplos de filmes que já foram indicados ao oscar |
 
-Midjourney：
+| encerramento | eEscreva ultima página do livro mantendo o mesmo padrão dos capítulos. Siga as {REGRAS} e use os itens em {RESUMO}
+
+{REGRAS}
+> Iniciar com breve agradecimento direcionado ao leitor
+> Informar que o conteúdo foi feito utilizando IA
+> Indicar ao leitor que continue estudando e busque outras formas de se aprofundar no tema
+
+{RESUMO}
+O livro foi feito para fins didáticos e experimentação de engenharia de prompt e o conteúdo foi revisado e diagramado pelo autor |
+
+RunWay：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| capa | silhouette of a video editor on computer, oscar statuette on the desk and trophies on the wall, in a bedroom, with motion blur, indirect neon lighting |
+| ilustrações | silhouette of a video editor on computer, oscar statuette on the desk in a bedroom, with motion blur, indirect neon lighting | video editor computer desk, with motion blur, indirect neon lighting |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Runway
 
 ## 📚 Materiais
 
@@ -54,30 +70,3 @@ Midjourney：
 ## 🛠️ Instruções de execução
 
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
-
-## 👨‍💻 Expert
-
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
-
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
