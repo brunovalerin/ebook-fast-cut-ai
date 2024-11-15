@@ -8,13 +8,11 @@
 />
 </p>
 
-# Projeto: EBOOK Gerado por I.A.s
+# Projeto: E-BOOK Gerado por I.A.s
 
 
- > NOTE: Este é o repositório desenvolvido como um exercício de engenharia de prompt durante o bootcamp 'IA Generativa com Microsoft Copilot' da Caixa na plataforma da [DIO](https://dio.me)
+ > NOTE: Este repositório foi desenvolvido como um exercício de engenharia de prompt durante o bootcamp 'IA Generativa com Microsoft Copilot' da Caixa na plataforma da [DIO](https://dio.me)
 
-
-Projeto com o objetivo de gerar um e-book ultilizando ferramentas de IA. Todos os prompts seguem abaixo.
 
 
 <p align="center">
