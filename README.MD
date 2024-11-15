@@ -39,7 +39,7 @@
 | Content | Use the generated chapters and write the e-book using the following rules: each chapter should have a maximum reading time of 2 minutes. The language should be dynamic and easy to understand, focused on people who already have knowledge in the area. The tips should apply to any editing software. Use analogies and cite examples of films that have been nominated for an Oscar. |
 | Closing | Write the last page of the book, keeping the same pattern as the chapters. Follow the RULES and use the items in SYNOPSIS. RULES: Start with a brief thank you to the reader, inform that the content was created using AI, tell the reader to continue studying and look for other ways to delve deeper into the subject. SYNOPSIS: The book was made for educational purposes and prompt engineering experimentation, and the content was reviewed and designed by the author. |
 
-**NOTE:** This is a translation of the prompts originally made in Brazilian Portuguese.. Also, the syntax of the prompts used braces, brackets and other characters that would mess up the formatting of the presentation in question. 
+**NOTE:** This is a translation of the prompts originally made in Brazilian Portuguese. Also, the syntax of the prompts used braces, brackets and other characters that would mess up the formatting of the presentation in question. 
 
 
 🖼️ RunWay：
@@ -48,7 +48,7 @@
 | :----: | -------------------------------------------------------------------------------------- |
 | Cover | Silhouette of a video editor on computer, oscar statuette on the desk and trophies on the wall, in a bedroom, with motion blur, indirect neon lighting |
 | Illustrations_1 | Silhouette of a video editor on computer, oscar statuette on the desk in a bedroom, with motion blur, indirect neon lighting |
-| Illustrations_2 | Sideo editor computer desk, with motion blur, indirect neon lighting |
+| Illustrations_2 | Video editor computer desk, with motion blur, indirect neon lighting |
 
 
 
