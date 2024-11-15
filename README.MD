@@ -4,21 +4,24 @@
 <p align="center">
 <img 
     src="./assets/mockup_fast_cut.jpg"
-    width="400"  
+    width="430"  
 />
 </p>
 
-# Projeto EBOOK Gerado por I.A.s
+# Projeto: EBOOK Gerado por I.A.s
 
 
  > NOTE: Este é o repositório desenvolvido como um exercício de engenharia de prompt durante o bootcamp 'IA Generativa com Microsoft Copilot' da Caixa na plataforma da [DIO](https://dio.me)
 
+
 Projeto com o objetivo de gerar um e-book ultilizando ferramentas de IA. Todos os prompts seguem abaixo.
 
+
 <p align="center">
-<a href="https://github.com/brunovalerin/ebook-fast-cut-ai/blob/main/output/FAST_CUT_ptbr.pdf" title="View PDF now"> 📕LEIA AQUI!</a>
-/>
+<a href="https://github.com/brunovalerin/ebook-fast-cut-ai/blob/main/output/FAST_CUT_ptbr.pdf" title="View PDF now"> 📕LEIA E-BOOK AQUI!</a>
 </p>
+
+
 
 ## 💻 Tecnologias utilizadas no projeto
 
