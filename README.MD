@@ -49,7 +49,7 @@
 | :----: | -------------------------------------------------------------------------------------- |
 | Capa | Silhouette of a video editor on computer, oscar statuette on the desk and trophies on the wall, in a bedroom, with motion blur, indirect neon lighting |
 | Ilustrações_1 | Silhouette of a video editor on computer, oscar statuette on the desk in a bedroom, with motion blur, indirect neon lighting |
-| Ilustrações_2 | Sideo editor computer desk, with motion blur, indirect neon lighting |
+| Ilustrações_2 | Video editor computer desk, with motion blur, indirect neon lighting |
 
 
 
